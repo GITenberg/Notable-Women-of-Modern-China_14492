@@ -1,0 +1,29 @@
+_repo: Notable-Women-of-Modern-China_14492
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burton, Margaret E. (Margaret Ernestine)
+    birthdate: 1885
+    gutenberg_agent_id: '5548'
+    url: http://www.gutenberg.org/2009/agents/5548
+description: ''
+gutenberg_issued: '2004-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14492'
+  lccn: '12029964'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Biography'
+- !lcsh 'China -- Biography'
+- !lcc 'CT'
+tableOfContents: Dr. Hü King Eng -- Mrs. Ahok -- Dr. Ida Kahn -- Dr. Mary Stone --
+  Yu Kuliang -- Anna Stone.
+title: Notable Women of Modern China
+url: http://www.gutenberg.org/ebooks/14492
